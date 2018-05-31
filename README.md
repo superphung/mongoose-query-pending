@@ -1,6 +1,11 @@
 # mongoose-query-pending
 
-you should first replace the URL variable with a correct mongo url
+you should first replace the URL variable with a correct mongo url 
+and then execute 
+
+```npm run start```
+
+the server should run in the port 3003
 
 2 possible cases
 
